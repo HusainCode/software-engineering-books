@@ -14,16 +14,15 @@ A curated collection of freely available, high-quality books on software enginee
 
 
 - **Systems & Architecture**
-  - Operating Systems, Compilers, Networking, Distributed Systems
+
 
 - **Software Engineering**
-  - Design Patterns, Clean Code, Refactoring, DevOps
+ 
 
 - **Computer Science**
-  - Algorithms, Data Structures, Theory, AI/ML
+ 
 
 - **Embedded & Real-Time Systems**
-  - Firmware, Microcontrollers, RTOS, Bare-Metal Programming
 
 ---
 
