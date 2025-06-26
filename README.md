@@ -9,8 +9,9 @@ A curated collection of freely available, high-quality books on software enginee
 ### Programming Languages
 
 #### C
-- **[The ISO C99 Standard (ISO/IEC 9899:1999)](https://www.dii.uchile.cl/~daespino/files/Iso_C_1999_definition.pdf?utm_source=chatgpt.com)**  
-  Official specification of the C programming language (C99). Defines the language syntax, semantics, and standard library.
+- **[The ISO C99 Standard (ISO/IEC 9899:1999)](https://github.com/HusainCode/software-engineering-books/blob/main/pdfs/Iso_C_1999_definition.pdf)**  
+  Official C99 language specification defining the syntax, semantics, and standard library as published by ISO.
+
 
 
 - **Systems & Architecture**
