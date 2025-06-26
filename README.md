@@ -1,4 +1,4 @@
-# 📚 Awesome Software Engineering Books
+# 📚 Software Engineering Books
 
 A curated collection of freely available, high-quality books on software engineering, systems design, programming languages, computer science, and architecture.
 
